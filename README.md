@@ -7,6 +7,6 @@ Foobar presents a series of coding challenges of increasing difficulty, covering
 
 Here in this repository you can find all coding questions and answer written by me.
 
-Please see all the solution :)
+You can read all the problem statement Level wise in my repository with complete solution :)
 
 And thanks GOOGLE for this exciting opportunity xd
