@@ -28,7 +28,6 @@ And thanks GOOGLE for this exciting opportunity xd
 
 ### Level 4:
 * [Don't Get Volunteered!](https://github.com/DharmikGohil/GoogleFoobar-Coding-Challange/tree/main/Level%204)
-* [Free the Bunny Prisoners](https://github.com/sark-2110/Foobar-Google/tree/master/Free%20the%20Bunny%20Prisoners)
 
 ### Level 5:
 * [Disorderly Escape](https://github.com/DharmikGohil/GoogleFoobar-Coding-Challange/tree/main/Level%205)
